@@ -5,17 +5,17 @@
 
 
 ## - Phase 1-  
-Collected data from multiple sources using web scraping for data collection & preparation.
+- Collected data from multiple sources using web scraping for data collection & preparation.
 
 
 
 ## - Phase 2 - 
-Extract insights of  district-wise demographic analysis depending on literacy rates and recorded total crimes according to utilized data driven by Indian Penal Code for State/UT-wise recorded crimes during years (2000-2012).
+- Extract insights of  district-wise demographic analysis depending on literacy rates and recorded total crimes according to utilized data driven by Indian Penal Code for State/UT-wise recorded crimes during years (2000-2012).
 
 
 
 ## - Phase 3 - 
-Optimized MySQL operations using MySQL Workbench & advanced database optimization techniques and insights
+- Optimized MySQL operations using MySQL Workbench & advanced database optimization techniques and insights
 
 .
 
