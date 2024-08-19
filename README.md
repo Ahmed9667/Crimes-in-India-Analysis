@@ -6,6 +6,8 @@
 
 ## - Phase 1-  
 - Collected data from multiple sources using web scraping for data collection & preparation.
+- Population : https://www.indiacensus.net/literacy-rate.php
+- Area : https://statisticstimes.com/geography/india/indian-states-area.php
 
 
 
